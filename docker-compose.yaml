@@ -10,5 +10,5 @@ services:
             - "443:443"
         volumes:
             - /var/run/docker.sock:/tmp/docker.sock:ro
-            - ./src:/usr/share/nginx/html            
+            - ./html:/usr/share/nginx/html            
         restart: unless-stopped
