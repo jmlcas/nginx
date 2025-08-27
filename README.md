@@ -1,3 +1,4 @@
+# Nginx
 
-Ver en "localhost"
+Ver en "http://localhost"
 
